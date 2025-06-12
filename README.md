@@ -1,4 +1,4 @@
-## Hi Humans 👽🖖🏿
+<h1 align="center"> Hi Humans 👽🖖🏿 </h1>
 
 <p align="center">
   💻 Aspiring developer passionate about coding, challenges, and creative problem solving!
