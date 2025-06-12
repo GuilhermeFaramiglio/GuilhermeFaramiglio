@@ -8,8 +8,8 @@
 
 ## 🚀 About Me
 
-- 🎯 Currently learning C#, HTML, CSS, and web development  
-- 🧠 Interested in building systems, games, and interactive applications  
+- 🎯 Currently learning C#, SQL, PHP, HTML, CSS. 
+- 🧠 Interested in building systems and interactive applications  
 - 📚 Always exploring new technologies and improving my skills  
 
 ---
