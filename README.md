@@ -23,13 +23,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GuilhermeFaramiglio&theme=retro&no-frame=true&column=7" alt="Trophies"/>
-</p>
-
----
-
 ## 👾 Tech Stack
 <p align="center">
 
