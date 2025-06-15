@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4287f5&height=120&section=header&fontColor=ffffff&fontAlignY=35"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4000&pause=1000&color=4287F5&center=true&vCenter=true&width=1000&lines=Hi+Humans+👽🖖🏿;Welcome+to+my+8-bit+GitHub!;Software+Developer+and+Pixel+Enthusiast!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4000&pause=1000&color=4287F5&center=true&vCenter=true&width=1000&lines=Hi+Humans+👽🖖🏿;Welcome+to+my+GitHub!;Passionate+about+technology,+coding+and+learning!" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -15,14 +15,15 @@
 
 ---
 
-## 🏆 GitHub Trophies (8-bit Style):
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GuilhermeFaramiglio&theme=retro&no-frame=true&column=7" alt="Trophies"/>
-</p>
+## 🚀 About Me
+
+- 🎯 Currently learning C#, SQL, PHP, HTML, CSS. 
+- 🧠 Interested in building systems and interactive applications  
+- 📚 Always exploring new technologies and improving my skills  
 
 ---
 
-## 👾 Tech Stack (Pixel Style):
+## 👾 Tech Stack:
 <p align="center">
 
 <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4"/>
