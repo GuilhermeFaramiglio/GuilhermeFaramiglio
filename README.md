@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4287f5&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4287f5&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Guilherme+Faramiglio!;Welcome+to+my+GitHub!;Passionate+about+technology,+coding+and+learning!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4287f5&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Hi+Humans!+👽🖖🏿;Welcome+to+my+GitHub!;Passionate+about+technology,+coding+and+learning!)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/GuilhermeFaramiglio">
