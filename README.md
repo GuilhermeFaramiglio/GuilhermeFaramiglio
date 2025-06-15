@@ -16,14 +16,21 @@
 ---
 
 ## 🚀 About Me
-
-- 🎯 Currently learning C#, SQL, PHP, HTML, CSS. 
-- 🧠 Interested in building systems and interactive applications  
-- 📚 Always exploring new technologies and improving my skills  
+- 👨‍💻 Self-taught developer passionate about technology  
+- 🧠 Currently learning: C#, SQL, PHP, HTML, CSS  
+- 🎯 Focused on building systems, websites, and interactive applications  
+- 💡 Always exploring new technologies and improving my skills  
 
 ---
 
-## 👾 Tech Stack:
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GuilhermeFaramiglio&theme=retro&no-frame=true&column=7" alt="Trophies"/>
+</p>
+
+---
+
+## 👾 Tech Stack
 <p align="center">
 
 <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4"/>
@@ -37,12 +44,14 @@
 
 ---
 
-## 📫 Contact me:
+## 📫 Contact me
 <p align="center">
-  <a href="mailto:guilherme.busato@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-faramiglio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:guilherme.busato@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/guilherme-faramiglio/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4287f5&height=120&section=footer&fontColor=ffffff"/>
-
-
