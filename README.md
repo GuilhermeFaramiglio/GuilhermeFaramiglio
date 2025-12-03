@@ -16,10 +16,10 @@
 ---
 
 ## 🚀 About Me
-- 👨‍💻 Self-taught developer passionate about technology  
-- 🧠 Currently learning: **C#, SQL, PHP, HTML, CSS, BOOTSTRAP**  
-- 🎯 Focused on building **systems, websites, and interactive applications**  
-- 💡 Always exploring **new technologies** and improving my skills  
+- 👨‍💻 The IT guy passionate about technology.
+- 🌐 I really enjoy web development with PHP + Bootstrap <3
+- 🧠 Frequently improving my skills in **PHP (in web development), C, C#, and our friend SQL**.
+- 💡 Always exploring **new technologies** and improving my skills. 
 
 ---
 
@@ -27,6 +27,7 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP"/>
+<img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C"/>
 <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=239120" alt="C#"/>
 <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
